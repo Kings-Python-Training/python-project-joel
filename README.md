@@ -2,10 +2,10 @@
 # 🐍 Python Module Project
 
 ## Team Members
-- Name 1 (Roll No.)
-- Name 2 (Roll No.)
-- Name 3 (Roll No.)
-- Name 4 (Roll No.)
+- Joel Gautam (Roll No.)
+- Shishir Pandey (Roll No.)
+- Sneha Shrestha (bn220495)
+
 
 ## Project Information
 - **Project Title:**  
